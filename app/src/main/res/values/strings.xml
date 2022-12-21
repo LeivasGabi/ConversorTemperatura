@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Conversor de Temperatura</string>
+    <string name="title">Insira um valor para conversao de temperatura:</string>
+    <string name="radio_btn1">Celsius para Fahrenheit</string>
+    <string name="radio_btn2">Celsius para Kelvin</string>
+    <string name="radio_btn3">Kelvin para Fahrenheit</string>
+    <string name="radio_btn4">Kelvin para Celsius"</string>
+    <string name="radio_btn5">Fahrenheit para Celsius</string>
+    <string name="radio_btn6">Fahrenheit para Kelvin</string>
+    <string name="btn_calculate">Calcular</string>
+    <string name="text_result">Resultado</string>
 </resources>
